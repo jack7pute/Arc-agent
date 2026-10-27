@@ -11,6 +11,15 @@ Built with [Arc Studio](https://studio.arc.io)
 - Sell two services: a wallet report ($0.01) and an agent trust check ($0.005).
 - See the live 402 challenge a buyer receives, and watch paid calls and earnings appear.
 
+## Using the app
+
+1. Connect your wallet. It needs a little Arc Testnet USDC for gas.
+2. Register your agent. Set the Public API URL to where the app is hosted, so buyers can reach it.
+3. Choose "Enable paid endpoints" and sign the message. This is free and sends no transaction.
+4. Share the endpoint URLs from your agent card. Buyers pay in USDC per call and earnings show up in the app.
+
+The first wallet to enable paid endpoints on a server becomes its owner.
+
 ## Tech stack
 
 React, Vite, TypeScript, Tailwind CSS, wagmi, viem, ConnectKit, Express, `@circle-fin/x402-batching`.
