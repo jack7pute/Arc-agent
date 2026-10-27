@@ -1,0 +1,41 @@
+{"level":"debug","message":"[vite] connected.","timestamp":1793090706460}
+{"level":"debug","message":"[vite] connected.","timestamp":1793090766031}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793090773219}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793090773250}
+{"level":"debug","message":"[vite] connected.","timestamp":1793090785210}
+{"level":"debug","message":"[vite] connected.","timestamp":1793090891386}
+{"level":"debug","message":"[vite] connected.","timestamp":1793090892055}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793090922301}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793090922301}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793090922369}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793090922369}
+{"level":"warn","message":"It looks like there are several instances of 'styled-components' initialized in this application. This may cause dynamic styles to not render properly, errors during the rehydration process, a missing theme prop, and makes your application bigger without good reason.\n\nSee https://s-c.sh/2BAXzed for more info.","timestamp":1793090930278}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793090930415}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793090930415}
+{"level":"warn","message":"It looks like there are several instances of 'styled-components' initialized in this application. This may cause dynamic styles to not render properly, errors during the rehydration process, a missing theme prop, and makes your application bigger without good reason.\n\nSee https://s-c.sh/2BAXzed for more info.","timestamp":1793090930464}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793090930550}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793090930550}
+{"level":"debug","message":"[vite] hot updated: /src/components/RegisterPanel.tsx","timestamp":1793090942017}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793090942017}
+{"level":"debug","message":"[vite] hot updated: /src/components/RegisterPanel.tsx","timestamp":1793090942017}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793090942017}
+{"level":"debug","message":"[vite] hot updated: /src/components/TryPanel.tsx","timestamp":1793090967374}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793090967374}
+{"level":"debug","message":"[vite] hot updated: /src/components/TryPanel.tsx","timestamp":1793090967374}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793090967374}
+{"level":"debug","message":"[vite] connected.","timestamp":1793091016449}
+{"level":"debug","message":"[vite] connected.","timestamp":1793091017234}
+{"level":"debug","message":"[vite] connected.","timestamp":1793091019890}
+{"level":"debug","message":"[vite] connected.","timestamp":1793091747286}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793091761016}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentCard.tsx","timestamp":1793091761017}
+{"level":"debug","message":"[vite] hot updated: /src/components/ui.tsx","timestamp":1793091761017}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPanel.tsx","timestamp":1793091761017}
+{"level":"debug","message":"[vite] hot updated: /src/components/TryPanel.tsx","timestamp":1793091761017}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793091761018}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793091762453}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentCard.tsx","timestamp":1793091762453}
+{"level":"debug","message":"[vite] hot updated: /src/components/PaymentsPanel.tsx","timestamp":1793091762453}
+{"level":"debug","message":"[vite] hot updated: /src/components/TryPanel.tsx","timestamp":1793091762453}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793091762453}
+{"level":"debug","message":"[vite] connected.","timestamp":1793091765320}
